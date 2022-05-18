@@ -50,5 +50,6 @@ TBD
 
 Licensed under the [MIT license](./LICENSE). 
 
-
-[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">SOFTSPIDERS</a>
+</div>
