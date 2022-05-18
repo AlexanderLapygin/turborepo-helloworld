@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "Minimal template for Lerna Monorepo",
+  "repository": "https://github.com/softspiders/lerna",
+  "author": "Alexander Lapygin",
+  "license": "MIT",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "some-command": "lerna run some-command"
+  },
+  "devDependencies": {
+    "lerna": "^3.18.3"
+  }
+}
