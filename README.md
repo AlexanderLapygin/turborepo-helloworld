@@ -1,4 +1,8 @@
-[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">
+      <img src="./images/sslogo-from-github-20.png"/>
+    </a>
+</div>
 
 # turborepo-helloworld
 
@@ -45,3 +49,6 @@ TBD
 ### License
 
 Licensed under the [MIT license](./LICENSE). 
+
+
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
